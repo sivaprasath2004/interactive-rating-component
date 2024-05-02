@@ -32,6 +32,7 @@ Users should be able to:
 ![desktop preview](./design/desktop-preview.jpg)
 
 ### Links
+[Click Here](https://sivaprasath2004.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -50,3 +51,5 @@ Throughout the process of constructing this webpage, I acquired the skill of uti
 I am currently still learning JavaScript and React to improve more and build more websites.
 
 ## Author
+- Sivaprasath 
+- [sivaprasath2004](https://github.com/sivaprasath2004)
